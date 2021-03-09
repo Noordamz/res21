@@ -3,5 +3,5 @@ Web Damz Apps Resolusi 2021
 - Mempelajari framework CI dan Laravel
 - Mempelajari konsep Networking
 - Mempelajari Cloud Networking
-- Mempelajari Cloud Database
-- Working Collaboration
+- Mempelajari Working Collaboration
+- Management Google Workspace
