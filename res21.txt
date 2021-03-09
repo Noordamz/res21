@@ -1,0 +1,4 @@
+Web Damz Apps Resolusi 2021
+- Konsisten membuat konten
+- Mempelajari framework CI dan Laravel
+- Mempelajari konsep Networking dan Cloud Networking
